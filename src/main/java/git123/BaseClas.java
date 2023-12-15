@@ -11,4 +11,7 @@ public class BaseClas {
 	}public void show() {
 		System.out.println("This is a show method");
 	}
+	public void display(String arg) {
+		System.out.println("This is a display method");
+	}
 }
