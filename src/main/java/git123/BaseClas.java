@@ -6,12 +6,5 @@ public class BaseClas {
 		System.out.println("BaseClas");
 		System.out.println("This Is a line from Github");
 	}
-	public void display() {
-		System.out.println("This is a display method");
-	}public void show() {
-		System.out.println("This is a show method");
-	}
-	public void display(String arg) {
-		System.out.println("This is a display method");
-	}
+	
 }
