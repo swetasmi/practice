@@ -8,5 +8,7 @@ public class BaseClas {
 	}
 	public void display() {
 		System.out.println("This is a display method");
+	}public void show() {
+		System.out.println("This is a show method");
 	}
 }
